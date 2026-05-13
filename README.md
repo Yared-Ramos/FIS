@@ -56,7 +56,9 @@ FIS/
 ---
 ## Desarrollado por 
 [Yared Ramos Concepción](https://github.com/Yared-Ramos)
+
 [Saray Gallardo León](https://github.com/Saray-Gallardo)
+
 [Hugo Darias Coello](https://github.com/HugoDarias)
 
 Repositorio:
