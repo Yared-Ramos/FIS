@@ -11,13 +11,7 @@ El objetivo de la práctica es desarrollar una aplicación llamada **ParkShare**
 ParkShare es una aplicación orientada a la gestión de aparcamientos compartidos.  
 El proyecto está estructurado siguiendo una organización modular basada en clases y separación de responsabilidades.
 
-La práctica se centra principalmente en:
-
-- Organización del código
-- Diseño orientado a objetos
-- Uso de herencia y composición
-- Separación entre lógica y modelos
-- Estructuración limpia del proyecto
+El sistema desarrollado, denominado ParkShare, tiene como objetivo facilitar el alquiler temporal de plazas de aparcamiento entre particulares y comunidades de vecinos, permitiendo conectar a propietarios de plazas disponibles con usuarios que necesitan estacionamiento de forma rápida, segura y organizada.
 
 ---
 
