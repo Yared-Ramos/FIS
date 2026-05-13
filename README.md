@@ -17,6 +17,7 @@ El sistema desarrollado, denominado ParkShare, tiene como objetivo facilitar el 
 
 # Estructura del proyecto
 
+```text
 FIS/
 ├── src/
 │   ├── User.cpp
@@ -26,7 +27,7 @@ FIS/
 │   ├── User.h
 │   ├── Parking.h
 │   └── ...
-
+````
 ---
 
 # Tecnologías utilizadas
