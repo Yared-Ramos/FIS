@@ -19,26 +19,13 @@ El sistema desarrollado, denominado ParkShare, tiene como objetivo facilitar el 
 
 | Ruta | Descripción |
 |---|---|
-| `src/` | Código fuente principal del proyecto |
+| `FIS/` | Código fuente principal del proyecto |
 | `include/` | Archivos de cabecera (`.h` / `.hpp`) |
 | `models/` | Modelos y representación de entidades |
 | `controllers/` | Control de la lógica de la aplicación |
 | `views/` | Gestión de vistas e interacción |
 | `utils/` | Funciones auxiliares y utilidades |
 | `main.cpp` | Punto de entrada de la aplicación |
-
----
-
-# Organización general
-
-El proyecto sigue una estructura modular para facilitar:
-
-- El mantenimiento del código
-- La escalabilidad
-- La reutilización de componentes
-- La separación de responsabilidades
-
-Cada módulo tiene una función específica dentro de la aplicación, permitiendo una arquitectura más limpia y fácil de extender.
 
 ---
 
@@ -49,18 +36,6 @@ Cada módulo tiene una función específica dentro de la aplicación, permitiend
 | C++ | Desarrollo principal |
 | Git | Control de versiones |
 | GitHub | Gestión del repositorio |
-
----
-
-# Objetivos académicos
-
-Esta práctica tiene como finalidad aplicar conceptos vistos en la asignatura:
-
-- Programación orientada a objetos
-- Diseño modular
-- Organización de proyectos software
-- Buenas prácticas de desarrollo
-- Trabajo con repositorios Git
 
 ---
 
