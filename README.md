@@ -54,7 +54,7 @@ FIS/
 
 # Autor
 
-Desarrollado por Yared Ramos
+Desarrollado por [Yared Ramos](https://github.com/Yared-Ramos)
 
 Repositorio:
 
