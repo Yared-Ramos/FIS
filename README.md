@@ -17,15 +17,15 @@ El sistema desarrollado, denominado ParkShare, tiene como objetivo facilitar el 
 
 # Estructura del proyecto
 
-| Ruta | Descripción |
-|---|---|
-| `FIS/` | Código fuente principal del proyecto |
-| `include/` | Archivos de cabecera (`.h` / `.hpp`) |
-| `models/` | Modelos y representación de entidades |
-| `controllers/` | Control de la lógica de la aplicación |
-| `views/` | Gestión de vistas e interacción |
-| `utils/` | Funciones auxiliares y utilidades |
-| `main.cpp` | Punto de entrada de la aplicación |
+FIS/
+├── src/
+│   ├── User.cpp
+│   ├── Parking.cpp
+│   └── ...
+├── include/
+│   ├── User.h
+│   ├── Parking.h
+│   └── ...
 
 ---
 
