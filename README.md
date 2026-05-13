@@ -1,4 +1,4 @@
-# FIS - Framework de Inyección de Servicios
+# FIS - Fundamentos de Ingeniería del Software
 
 Proyecto desarrollado siguiendo principios de **Programación Orientada a Objetos (OOP)**, utilizando herencia, encapsulación, abstracción y polimorfismo para construir una arquitectura modular, escalable y mantenible.
 
