@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/datos.dir/main.cpp.o CMakeFiles/datos.dir/usuario.cpp.o CMakeFiles/datos.dir/arrendatario.cpp.o CMakeFiles/datos.dir/arrendador.cpp.o CMakeFiles/datos.dir/admin.cpp.o CMakeFiles/datos.dir/plaza.cpp.o -o datos 

@@ -1,0 +1,13 @@
+{
+    "Plaza": [
+        {
+            "direccion": "Calle Mayor 5, B2",
+            "estado": "reservada",
+            "horario_fin": "20:00",
+            "horario_inicio": "08:00",
+            "id": 1,
+            "precio_hora": 1.5,
+            "propietario_dni": 87654321
+        }
+    ]
+}

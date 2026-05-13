@@ -1,0 +1,3 @@
+/home/yared/ProyectoBaseDatos/JSON/build/CMakeFiles/datos.dir
+/home/yared/ProyectoBaseDatos/JSON/build/CMakeFiles/edit_cache.dir
+/home/yared/ProyectoBaseDatos/JSON/build/CMakeFiles/rebuild_cache.dir

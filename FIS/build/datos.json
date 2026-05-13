@@ -1,0 +1,23 @@
+{
+    "Arrendador": [
+        {
+            "DNI": 87654321,
+            "Nombre": "Laura",
+            "contraseña": "abcd"
+        }
+    ],
+    "Arrendatario": [
+        {
+            "Contraseña": "1234",
+            "DNI": 12345678,
+            "Matricula": "1234ABC",
+            "Nombre": "Carlos"
+        },
+        {
+            "Contraseña": "123",
+            "DNI": 2342,
+            "Matricula": "5345B",
+            "Nombre": "Pedro"
+        }
+    ]
+}
