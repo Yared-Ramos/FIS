@@ -63,6 +63,8 @@ FIS/
 
 [Héctor Martín Álvarez](https://github.com/hectorma13)
 
+[Jorge González de la Barreda Arimany](https://github.com/alu0101738710)
+
 Repositorio:
 
 [Repositorio FIS](https://github.com/Yared-Ramos/FIS/tree/master)
