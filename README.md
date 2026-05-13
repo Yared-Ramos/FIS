@@ -28,20 +28,6 @@ El objetivo principal del proyecto es separar correctamente las responsabilidade
 
 ---
 
-# Estructura del proyecto
-
-| Carpeta / Archivo | Descripción                                     |
-| ----------------- | ----------------------------------------------- |
-| `FIS/`            | Núcleo principal del proyecto                   |
-| `core/`           | Clases base abstractas e interfaces principales |
-| `models/`         | Clases hijas con implementaciones concretas     |
-| `services/`       | Lógica de negocio del sistema                   |
-| `utils/`          | Funciones auxiliares y herramientas generales   |
-| `include/`        | Cabeceras del proyecto (`.h` / `.hpp`)          |
-| `main.cpp`        | Punto de entrada del programa                   |
-
----
-
 # Arquitectura del sistema
 
 El proyecto sigue un enfoque basado en componentes reutilizables.
