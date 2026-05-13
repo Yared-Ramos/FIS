@@ -61,6 +61,8 @@ FIS/
 
 [Hugo Darias Coello](https://github.com/HugoDarias)
 
+[Héctor Martín Álvarez](https://github.com/hectorma13)
+
 Repositorio:
 
 [Repositorio FIS](https://github.com/Yared-Ramos/FIS/tree/master)
