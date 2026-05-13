@@ -19,14 +19,26 @@ El sistema desarrollado, denominado ParkShare, tiene como objetivo facilitar el 
 
 ```text
 FIS/
-├── src/
-│   ├── User.cpp
-│   ├── Parking.cpp
-│   └── ...
-├── include/
-│   ├── User.h
-│   ├── Parking.h
-│   └── ...
+├── FIS/
+│   ├── main.cpp
+│   ├── funciones.hpp
+│   ├── json.hpp
+│   ├── usuario.cpp
+│   ├── usuario.hpp
+│   ├── admin.cpp
+│   ├── AdministradorFinca.hpp
+│   ├── arrendador.cpp
+│   ├── Arrendador.hpp
+│   ├── arrendatario.cpp
+│   ├── Arrendatario.hpp
+│   ├── plaza.cpp
+│   ├── Plaza.hpp
+│   ├── CMakeLists.txt
+├── build/
+│   ├── datos.json
+│   ├── plazas.json
+│   ├── MakeFile
+│   ├── *datos (Ejecutable)
 ````
 ---
 
