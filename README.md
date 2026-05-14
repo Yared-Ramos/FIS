@@ -57,14 +57,6 @@ FIS/
 ## Desarrollado por 
 [Yared Ramos Concepción](https://github.com/Yared-Ramos)
 
-[Saray Gallardo León](https://github.com/Saray-Gallardo)
-
-[Hugo Darias Coello](https://github.com/HugoDarias)
-
-[Héctor Martín Álvarez](https://github.com/hectorma13)
-
-[Jorge González de la Barreda Arimany](https://github.com/alu0101738710)
-
 Repositorio:
 
 [Repositorio FIS](https://github.com/Yared-Ramos/FIS/tree/master)
